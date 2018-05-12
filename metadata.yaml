@@ -1,0 +1,36 @@
+_repo: Elizabethan-EnglandFrom-A-Description-of-England-by-William-Harrison_32593
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, William
+    birthdate: 1534
+    deathdate: 1593
+    gutenberg_agent_id: '35928'
+    url: http://www.gutenberg.org/2009/agents/35928
+  editor:
+    agent_name: Withington, Lothrop
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '35929'
+    url: http://www.gutenberg.org/2009/agents/35929
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 16th century'
+- !lcsh 'Elizabeth I, Queen of England, 1533-1603 -- Homes and haunts -- England'
+- !lcsh 'England -- Description and travel -- Early works to 1800'
+- !lcc 'DA'
+title: 'Elizabethan England
+
+  From ''A Description of England,'' by William Harrison'
+url: http://www.gutenberg.org/ebooks/32593
